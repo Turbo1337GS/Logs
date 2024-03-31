@@ -1,4 +1,3 @@
-```markdown
 # Glogs - C++ Logging Module
 
 Glogs is a versatile, multi-platform C++ library designed for streamlined logging purposes. It offers functionalities like setting console colors, displaying tabular data, outputting files, and creating visually distinct blocks of text, among others. Whether you're developing for Windows, Unix/Linux, or MacOS, Glogs allows for colorful and structured log outputs, enhancing the debugging and monitoring process.
@@ -93,4 +92,3 @@ Feedback and contributions to the Glogs project are warmly welcomed. Whether it'
 Glogs is open-source and freely available for personal and commercial use under [MIT License](https://opensource.org/licenses/MIT).
 
 Happy Logging!
-```
